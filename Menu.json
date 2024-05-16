@@ -1,0 +1,72 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "tittle": "Burger Harmonia Crocante",
+            "description": "Pão tostado, hambúrguer grelhado, anéis de cebola, queijo, alface e tomate, cebolas, molho especial e picles.",
+            "fullDescription": "Pão artesanal tostado à perfeição, com uma crosta dourada que promete uma mordida satisfatória. Hambúrguer suculento, grelhado ao ponto, com aquele sabor defumado que só a brasa pode oferecer queijo derretido que se estica a cada mordida, adicionando uma riqueza cremosa que se funde com a carne, folhas de alface crocantes e tomate fresco que adicionam uma frescura e uma leveza ao conjunto, cebolas caramelizadas que trazem um doce equilíbrio, complementando a robustez da carne, molho especial que é o segredo do chef, uma mistura que eleva o hambúrguer a outro nível com suas notas picantes e adocicadas, picles crocantes que introduzem um toque ácido e uma textura que contrasta maravilhosamente com os outros componentes.",
+            "price": 35,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerHarmoniaCrocante.png"
+        }, 
+        {
+            "id": 2,
+            "tittle": "Burger Majestoso",
+            "description": "Pão tostado, dois hambúrgueres grelhados, queijo, bacon, salada, molho especial.",
+            "fullDescription": "Um hambúrguer que é uma verdadeira obra-prima culinária, com camadas generosas de carne suculenta, queijo derretido que se estende a cada mordida, e bacon crocante que adiciona uma textura irresistível. Cada componente é cuidadosamente selecionado para criar uma experiência gastronômica inesquecível, digna de ser chamada de majestosa. É o tipo de lanche que não só satisfaz o apetite, mas também deleita os sentidos.",
+            "price": 40,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerMajestoso.png"
+        },
+        {
+            "id": 3,
+            "tittle": "Burger Queijo Supremo",
+            "description": "Pão tostado, três hambúrgueres grelhados, queijo cheddar, bacon, salada, cebola caramelizada, molho especial.",
+            "fullDescription": "Um hambúrguer majestoso com camadas de carne grelhada, queijo cheddar derretido e bacon crocante. Servido em pão artesanal, complementado por alface fresca e tomate, e finalizado com molhos clássicos para uma experiência de sabor suprema.",
+            "price": 45,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerQueijoSupremo.png"
+        },
+        {
+            "id": 4,
+            "tittle": "Burger Torre Fiesta",
+            "description": "Pão tostado, frango empanado frito, três hambúrgueres grelhados, queijo, lombo, alface e cebola roxa...",
+            "fullDescription": "o “Torre Fiesta Crocante” empilha carne suculenta, filé de peito empanado frito, queijo derretido e lombo fatiado, cebola caramelizada entre pães dourados. Alface e cebola roxa fresca e molhos ricos completam esta obra-prima de sabor e textura, convidando a uma festa a cada mordida.",
+            "price": 65,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerTorreFiesta.png"
+        },
+        {
+            "id": 5,
+            "tittle": "Burger Celestial",
+            "description": "Pão tostado, hambúrguer grelhado, queijo, bacon, ovo frito, alface e tomate, molho especial e picles.",
+            "fullDescription": "O “Burger Celestial” é um convite aos sentidos, com hambúrgueres suculentos, queijo derretido e bacon crocante, entre pães dourados. Alface, tomate e cebola roxa adicionam frescor, enquanto molhos clássicos tecem uma rica tapeçaria de sabor.",
+            "price": 30,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerCelestial.png"
+        }, {
+            "id": 6,
+            "tittle": "Garden Fresh Burguer",
+            "description": "Pão tostado, hambúrguer grelhado, queijo, alface e tomate, cebola roxa, ketchup caseiro e molho especial.",
+            "fullDescription": "O Garden Fresh é uma explosão de frescor e sabor vegetal, perfeito para os amantes de saladas que desejam algo um pouco mais substancial. Começamos com um suculento hambúrguer de carne bovina, grelhado no ponto exato para manter a suculência e o sabor. Em seguida, sobre ele, é generosamente coberto com uma combinação de vegetais crocantes e frescos.",
+            "price": 30,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/GardenFreshBurguer.png"
+        }, {
+            "id": 7,
+            "tittle": "Crunchy Royale",
+            "description": "Pão tostado, frango empanado frito, repolho roxo e azeitonas preta, molho especial e picles.",
+            "fullDescription": "O “Crunchy Royale” apresenta uma harmonia de sabores e texturas, começando com um pão de gergelim tostado que abraça uma sobre coxa suculenta empanada, crocante por fora e macia por dentro. O repolho roxo ralado adiciona um toque de doçura e cor, com uma quantidade generosa quantidade de azeitonas preta. Para completar, os picles conferem uma acidez equilibrada, fazendo deste hambúrguer uma verdadeira experiência gastronômica.",
+            "price": 35,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/CrunchyRoyale.png"
+        }, {
+            "id": 8,
+            "tittle": "Saboroso Supremo",
+            "description": "Pão tostado, frango empanado frito, creme de frango com cebolinha, molho especial e picles.",
+            "fullDescription": "O “Saboroso Supremo” é uma obra-prima culinária, onde o pão é grelhado encontra um frango crocante e suculento, coberto com um creme de frango com cebolinha bem generoso. Os picles adicionam uma acidez perfeita, criando um equilíbrio de sabores que transforma cada mordida em uma experiência inesquecível.",
+            "price": 35,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/SaborosoSupremo.png"
+        }, {
+            "id": 9,
+            "tittle": "Crispy Chicken Burguer",
+            "description": "Pão tostado, tiras de frango empanado frito, catupiry original, alface e tomate e molho especial.",
+            "fullDescription": "O “Crispy Chicken Burguer”  é uma verdadeira celebração de sabores e texturas. Com um pão tostado que encontra a perfeição em tiras de frango empanadas e fritas até ficarem douradas e crocantes. O alface e o tomate adicionam um contraste refrescante e crocante, cada mordida é uma experiência única que satisfaz os amantes de um bom hambúrguer.",
+            "price": 40,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/CrispyChickenBurguer.png"
+        }
+    ]
+}
