@@ -1,0 +1,27 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "tittle": "Burger Torre Fiesta",
+            "description": "Pão tostado, frango empanado frito, três hambúrgueres grelhados, queijo, lombo, alface e cebola roxa...",
+            "fullDescription": "o “Torre Fiesta Crocante” empilha carne suculenta, filé de peito empanado frito, queijo derretido e lombo fatiado, cebola caramelizada entre pães dourados. Alface e cebola roxa fresca e molhos ricos completam esta obra-prima de sabor e textura, convidando a uma festa a cada mordida.",
+            "price": 65,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerTorreFiesta.png"
+        },
+        {
+            "id": 2,
+            "tittle": "Burger Celestial",
+            "description": "Pão tostado, hambúrguer grelhado, queijo, bacon, ovo frito, alface e tomate, molho especial e picles.",
+            "fullDescription": "O “Burger Celestial” é um convite aos sentidos, com hambúrgueres suculentos, queijo derretido e bacon crocante, entre pães dourados. Alface, tomate e cebola roxa adicionam frescor, enquanto molhos clássicos tecem uma rica tapeçaria de sabor.",
+            "price": 30,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerCelestial.png"
+        }, {
+            "id": 3,
+            "tittle": "Garden Fresh Burguer",
+            "description": "Pão tostado, hambúrguer grelhado, queijo, alface e tomate, cebola roxa, ketchup caseiro e molho especial.",
+            "fullDescription": "O Garden Fresh é uma explosão de frescor e sabor vegetal, perfeito para os amantes de saladas que desejam algo um pouco mais substancial. Começamos com um suculento hambúrguer de carne bovina, grelhado no ponto exato para manter a suculência e o sabor. Em seguida, sobre ele, é generosamente coberto com uma combinação de vegetais crocantes e frescos.",
+            "price": 30,
+            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/GardenFreshBurguer.png"
+        }
+    ]
+}
