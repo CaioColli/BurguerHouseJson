@@ -6,7 +6,7 @@
             "description": "Pão tostado, hambúrguer grelhado, anéis de cebola, queijo, alface e tomate, cebolas, molho especial e picles.",
             "fullDescription": "Pão artesanal tostado à perfeição, com uma crosta dourada que promete uma mordida satisfatória. Hambúrguer suculento, grelhado ao ponto, com aquele sabor defumado que só a brasa pode oferecer queijo derretido que se estica a cada mordida, adicionando uma riqueza cremosa que se funde com a carne, folhas de alface crocantes e tomate fresco que adicionam uma frescura e uma leveza ao conjunto, cebolas caramelizadas que trazem um doce equilíbrio, complementando a robustez da carne, molho especial que é o segredo do chef, uma mistura que eleva o hambúrguer a outro nível com suas notas picantes e adocicadas, picles crocantes que introduzem um toque ácido e uma textura que contrasta maravilhosamente com os outros componentes.",
             "price": 35,
-            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerHarmoniaCrocante.png"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerHarmoniaCrocante.png"
         },
         {
             "id": 2,
@@ -14,14 +14,14 @@
             "description": "Pão tostado, dois hambúrgueres grelhados, queijo, bacon, salada, molho especial.",
             "fullDescription": "Um hambúrguer que é uma verdadeira obra-prima culinária, com camadas generosas de carne suculenta, queijo derretido que se estende a cada mordida, e bacon crocante que adiciona uma textura irresistível. Cada componente é cuidadosamente selecionado para criar uma experiência gastronômica inesquecível, digna de ser chamada de majestosa. É o tipo de lanche que não só satisfaz o apetite, mas também deleita os sentidos.",
             "price": 40,
-            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerMajestoso.png"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerMajestoso.png"
         },{
             "id": 3,
             "tittle": "Burger Queijo Supremo",
             "description": "Pão tostado, três hambúrgueres grelhados, queijo cheddar, bacon, salada, cebola caramelizada, molho especial.",
             "fullDescription": "Um hambúrguer majestoso com camadas de carne grelhada, queijo cheddar derretido e bacon crocante. Servido em pão artesanal, complementado por alface fresca e tomate, e finalizado com molhos clássicos para uma experiência de sabor suprema.",
             "price": 45,
-            "image": "https://github.com/CaioColli/BurguerHouseImgs/blob/main/BurgerQueijoSupremo.png"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerQueijoSupremo.png"
         }
     ]
 }
