@@ -2,26 +2,26 @@
     "menu": [
         {
             "id": 1,
-            "title": "The Rad-Burger",
-            "description": "Pão tostado, dois hamburgueres grelhados, uma fatias de  queijo derretido, picles, alface, cebola, tomate e molho da casa cremoso em dobro.",
-            "fullDescription": "O “The Rad-Burger Deluxe” é uma obra-prima pós-apocalíptica que combina sabores intensos e texturas incríveis. Este hambúrguer começa com um brioche brilhante e macio, tostado na grelha até atingir a perfeição. Em seguida, são empilhados dois suculentos hambúrgueres de carne bovina, grelhados até ficarem dourados por fora e suculentos por dentro. Uma fatia de queijo derretido cobre o hambúrguer superior, adicionando um toque de cremosidade.",
-            "price": 45,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/The%20Rad-Burger.png"
+            "title": "Radroach Royale",
+            "description": "Pão tostado, hamburguer grelhado, uma fatias de  queijo, cebola roxa, picles, alface, molho da casa e ketchup.",
+            "fullDescription": "O “Radroach Royale” é um hambúrguer pós-apocalíptico com carne bovina grelhada, queijo derretido e molho de pimenta de radroach. Servido em um pão de gergelim fresco e acompanhado de alface, tomate e cebola roxa, este hambúrguer é uma explosão de sabor digna dos ermos radioativos.",
+            "price": 37,
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/Radroach%20Royale.png"
         },
         {
             "id": 2,
-            "title": "",
-            "description": "",
-            "fullDescription": "",
-            "price": 35,
-            "image": ""
+            "title": "The Wasteland Whoppe",
+            "description": "Pão tostado, hamburguer grelhado, três fatias de  queijo, alface,  bacon, molho da casa, ketchup e mostarda.",
+            "fullDescription": "O “The Wasteland Whopper” é um hambúrguer substancial e saboroso, perfeito para os aventureiros que enfrentam os perigos do deserto radioativo. Com camadas suculentas e ingredientes robustos, este hambúrguer é uma verdadeira refeição de sobrevivência.",
+            "price": 40,
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/The%20Wasteland%20Whoppe.png"
         },{
             "id": 3,
-            "title": "",
-            "description": "",
-            "fullDescription": "",
-            "price": 27,
-            "image": ""
+            "title": "Nuka-Bite",
+            "description": "Pão tostado, hamburguer grelhado, queijo derretido, alface, picles, carne desfiada, molho da casa, ketchup e sweet chili.",
+            "fullDescription": "O “Nuka-Bite” é uma explosão de sabores pós-apocalípticos que vai deixar os clientes do seu restaurante com água na boca. Inspirado nas famosas bebidas Nuka-Cola do universo Fallout, este hambúrguer é uma combinação ousada e deliciosa.",
+            "price": 55,
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/Nuka-Bite.png"
         }
     ]
 }
