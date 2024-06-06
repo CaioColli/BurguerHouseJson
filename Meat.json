@@ -2,26 +2,26 @@
     "menu": [
         {
             "id": 1,
-            "title": "Burger Torre Fiesta",
-            "description": "Pão tostado, frango empanado frito, três hambúrgueres grelhados, queijo, lombo, alface e cebola roxa...",
-            "fullDescription": "o “Torre Fiesta Crocante” empilha carne suculenta, filé de peito empanado frito, queijo derretido e lombo fatiado, cebola caramelizada entre pães dourados. Alface e cebola roxa fresca e molhos ricos completam esta obra-prima de sabor e textura, convidando a uma festa a cada mordida.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 65,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerTorreFiesta.png"
+            "image": ""
         },
         {
             "id": 2,
-            "title": "Burger Celestial",
-            "description": "Pão tostado, hambúrguer grelhado, queijo, bacon, ovo frito, alface e tomate, molho especial e picles.",
-            "fullDescription": "O “Burger Celestial” é um convite aos sentidos, com hambúrgueres suculentos, queijo derretido e bacon crocante, entre pães dourados. Alface, tomate e cebola roxa adicionam frescor, enquanto molhos clássicos tecem uma rica tapeçaria de sabor.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 30,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerCelestial.png"
+            "image": ""
         }, {
             "id": 3,
-            "title": "Garden Fresh Burguer",
-            "description": "Pão tostado, hambúrguer grelhado, queijo, alface e tomate, cebola roxa, ketchup caseiro e molho especial.",
-            "fullDescription": "O Garden Fresh é uma explosão de frescor e sabor vegetal, perfeito para os amantes de saladas que desejam algo um pouco mais substancial. Começamos com um suculento hambúrguer de carne bovina, grelhado no ponto exato para manter a suculência e o sabor. Em seguida, sobre ele, é generosamente coberto com uma combinação de vegetais crocantes e frescos.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 30,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/GardenFreshBurguer.png"
+            "image": ""
         }
     ]
 }

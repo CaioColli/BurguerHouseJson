@@ -2,26 +2,26 @@
     "menu": [
         {
             "id": 1,
-            "title": "Burger Harmonia Crocante",
-            "description": "Pão tostado, hambúrguer grelhado, anéis de cebola, queijo, alface e tomate, cebolas, molho especial e picles.",
-            "fullDescription": "Pão artesanal tostado à perfeição, com uma crosta dourada que promete uma mordida satisfatória. Hambúrguer suculento, grelhado ao ponto, com aquele sabor defumado que só a brasa pode oferecer queijo derretido que se estica a cada mordida, adicionando uma riqueza cremosa que se funde com a carne, folhas de alface crocantes e tomate fresco que adicionam uma frescura e uma leveza ao conjunto, cebolas caramelizadas que trazem um doce equilíbrio, complementando a robustez da carne, molho especial que é o segredo do chef, uma mistura que eleva o hambúrguer a outro nível com suas notas picantes e adocicadas, picles crocantes que introduzem um toque ácido e uma textura que contrasta maravilhosamente com os outros componentes.",
-            "price": 35,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerHarmoniaCrocante.png"
+            "title": "The Rad-Burger",
+            "description": "Pão tostado, dois hamburgueres grelhados, uma fatias de  queijo derretido, picles, alface, cebola, tomate e molho da casa cremoso em dobro.",
+            "fullDescription": "O “The Rad-Burger Deluxe” é uma obra-prima pós-apocalíptica que combina sabores intensos e texturas incríveis. Este hambúrguer começa com um brioche brilhante e macio, tostado na grelha até atingir a perfeição. Em seguida, são empilhados dois suculentos hambúrgueres de carne bovina, grelhados até ficarem dourados por fora e suculentos por dentro. Uma fatia de queijo derretido cobre o hambúrguer superior, adicionando um toque de cremosidade.",
+            "price": 45,
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/The%20Rad-Burger.png"
         },
         {
             "id": 2,
-            "title": "Burger Majestoso",
-            "description": "Pão tostado, dois hambúrgueres grelhados, queijo, bacon, salada, molho especial.",
-            "fullDescription": "Um hambúrguer que é uma verdadeira obra-prima culinária, com camadas generosas de carne suculenta, queijo derretido que se estende a cada mordida, e bacon crocante que adiciona uma textura irresistível. Cada componente é cuidadosamente selecionado para criar uma experiência gastronômica inesquecível, digna de ser chamada de majestosa. É o tipo de lanche que não só satisfaz o apetite, mas também deleita os sentidos.",
-            "price": 40,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerMajestoso.png"
+            "title": "",
+            "description": "",
+            "fullDescription": "",
+            "price": 35,
+            "image": ""
         },{
             "id": 3,
-            "title": "Burger Queijo Supremo",
-            "description": "Pão tostado, três hambúrgueres grelhados, queijo cheddar, bacon, salada, cebola caramelizada, molho especial.",
-            "fullDescription": "Um hambúrguer majestoso com camadas de carne grelhada, queijo cheddar derretido e bacon crocante. Servido em pão artesanal, complementado por alface fresca e tomate, e finalizado com molhos clássicos para uma experiência de sabor suprema.",
-            "price": 45,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/BurgerQueijoSupremo.png"
+            "title": "",
+            "description": "",
+            "fullDescription": "",
+            "price": 27,
+            "image": ""
         }
     ]
 }

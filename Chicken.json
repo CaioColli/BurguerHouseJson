@@ -2,25 +2,25 @@
     "menu": [
         {
             "id": 1,
-            "title": "Crunchy Royale",
-            "description": "Pão tostado, frango empanado frito, repolho roxo e azeitonas preta, molho especial e picles.",
-            "fullDescription": "O “Crunchy Royale” apresenta uma harmonia de sabores e texturas, começando com um pão de gergelim tostado que abraça uma sobre coxa suculenta empanada, crocante por fora e macia por dentro. O repolho roxo ralado adiciona um toque de doçura e cor, com uma quantidade generosa quantidade de azeitonas preta. Para completar, os picles conferem uma acidez equilibrada, fazendo deste hambúrguer uma verdadeira experiência gastronômica.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 35,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/CrunchyRoyale.png"
+            "image": ""
         }, {
             "id": 2,
-            "title": "Saboroso Supremo",
-            "description": "Pão tostado, frango empanado frito, creme de frango com cebolinha, molho especial e picles.",
-            "fullDescription": "O “Saboroso Supremo” é uma obra-prima culinária, onde o pão é grelhado encontra um frango crocante e suculento, coberto com um creme de frango com cebolinha bem generoso. Os picles adicionam uma acidez perfeita, criando um equilíbrio de sabores que transforma cada mordida em uma experiência inesquecível.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 35,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/SaborosoSupremo.png"
+            "image": ""
         }, {
             "id":3,
-            "title": "Crispy Chicken Burguer",
-            "description": "Pão tostado, tiras de frango empanado frito, catupiry original, alface e tomate e molho especial.",
-            "fullDescription": "O “Crispy Chicken Burguer”  é uma verdadeira celebração de sabores e texturas. Com um pão tostado que encontra a perfeição em tiras de frango empanadas e fritas até ficarem douradas e crocantes. O alface e o tomate adicionam um contraste refrescante e crocante, cada mordida é uma experiência única que satisfaz os amantes de um bom hambúrguer.",
+            "title": "",
+            "description": "",
+            "fullDescription": "",
             "price": 40,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseImgs/main/CrispyChickenBurguer.png"
+            "image": ""
         }
     ]
 }
