@@ -6,7 +6,7 @@
             "description": "Batata pequena com 150g",
             "fullDescription": "Porção de batata pequena com 150g de pura crocância",
             "price": 10,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/Batata%20Pequena.png"
         }, 
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "description": "Batata média com 300g",
             "fullDescription": "Porção de batata média com 300g de pura crocância",
             "price": 5,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/Batata%20Média.png"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "description": "Batata grande com 480g",
             "fullDescription": "Porção generosa de batata com 480g de pura crocância",
             "price": 24,
-            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/"
+            "image": "https://raw.githubusercontent.com/CaioColli/BurguerHouseJson/main/Images/Batata%20Suprema.png"
         }
     ]
 }
